@@ -36,3 +36,4 @@ let Account2 = new User(2, 'Julia', 'Dek', 002, 'JDekk@gmail.com', '05/07/1989',
 
 Account.info();
 Account2.info();
+
