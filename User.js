@@ -1,14 +1,3 @@
-// public class User {
-//     private int User_ID;
-//     private String F_Name;
-//     private String L_Name;
-//     private int P_Number;
-//     private String Email;
-//     private String DOB;
-//     private String Address;
-//     private String Medical_Condition;
-// }
-
 class User {
     // constructor(FName){
     //     this.firstName = FName;
